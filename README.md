@@ -17,7 +17,7 @@
 
 Все как обычно.
 
-1. Установить Python (https://www.python.org/) 
+1. Установить Python https://www.python.org/ 
 2. Скачать/склонировать репозиторий к себе в каталог
 3. Перейти в каталог со скриптом
 4. Накатить зависимости. (в терминале выполнить команду `pip install -r requirements.txt`)
@@ -34,5 +34,5 @@
 
 **TON:** UQAyQ-Y_pAGQMH0n5KRdP6EKthfxWLvq0bGRFSvwpwDHrgG1  
 
-**Мобильные банки:** (https://pay.cloudtips.ru/p/c7de7ad1)
+**Мобильные банки:** https://pay.cloudtips.ru/p/c7de7ad1
 
