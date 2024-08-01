@@ -38,12 +38,9 @@
 **Онлайн банкинг:** https://pay.cloudtips.ru/p/c7de7ad1
 
 
- ## Snake eating my contribution graph 
-![snake gif](https://github.com/Arsenyu1/Arsenyu1/blob/output/github-contribution-grid-snake.gif)
-
-**Мобильные банки:** https://pay.cloudtips.ru/p/c7de7ad1  
+ 
 
 
 ## Snake eating my contribution graph 
-![snake gif](https://github.com/Arsenyu1/Arsenyu1/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Arsenyu/Arsenyu/blob/output/github-contribution-grid-snake.gif)
 
