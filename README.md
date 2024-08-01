@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%36b723&lines=HamsterKombat+FarmerBot)](https://git.io/typing-svg)
 
+        
 Пример того, как можно автоматизировать рутину в телеграм боте https://t.me/hamster_kombat_bot
 
 Скрипт умеет:
@@ -34,5 +35,9 @@
 
 **TON:** UQAyQ-Y_pAGQMH0n5KRdP6EKthfxWLvq0bGRFSvwpwDHrgG1  
 
-**Мобильные банки:** https://pay.cloudtips.ru/p/c7de7ad1
+**Мобильные банки:** https://pay.cloudtips.ru/p/c7de7ad1  
+
+
+## Snake eating my contribution graph 
+![snake gif](https://github.com/Arsenyu1/Arsenyu1/blob/output/github-contribution-grid-snake.gif)
 
