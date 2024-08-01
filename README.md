@@ -33,7 +33,13 @@
 ## :+1: Для донатов  :shipit::  
 **USDT TRC20:**  TLzoziU6spDEuTmaYQZduMJLZ7BEpE6mJZ
 
-**TON:** UQAyQ-Y_pAGQMH0n5KRdP6EKthfxWLvq0bGRFSvwpwDHrgG1  
+**TON:** UQAyQ-Y_pAGQMH0n5KRdP6EKthfxWLvq0bGRFSvwpwDHrgG1          
+
+**Онлайн банкинг:** https://pay.cloudtips.ru/p/c7de7ad1
+
+
+ ## Snake eating my contribution graph 
+![snake gif](https://github.com/Arsenyu1/Arsenyu1/blob/output/github-contribution-grid-snake.gif)
 
 **Мобильные банки:** https://pay.cloudtips.ru/p/c7de7ad1  
 
